@@ -4,7 +4,7 @@
 ---
 
 ## 🛡️ About Me
-I'm a Cybersecurity Professional and Researcher passionate about securing digital assets. My focus areas include:
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;I'm a Cybersecurity Professional and Researcher passionate about securing digital assets. My focus areas include:
 * 🔭 **Network & Web Application Security**
 * 🕵️‍♂️ **Vulnerability Assessment & Penetration Testing (VAPT)**
 * 🤖 **Security Automation & Scripting**
