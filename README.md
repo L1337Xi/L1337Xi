@@ -8,7 +8,7 @@ I'm a Cybersecurity Professional and Researcher passionate about securing digita
 * 🔭 **Network & Web Application Security**
 * 🕵️‍♂️ **Vulnerability Assessment & Penetration Testing (VAPT)**
 * 🤖 **Security Automation & Scripting**
-* 🐞 **Threat Analysis & Ethical Hacking**
+* 🐞 **Ethical Hacking**
 
 ---
 
@@ -20,7 +20,7 @@ I'm a Cybersecurity Professional and Researcher passionate about securing digita
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 ---
 
